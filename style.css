@@ -1,11 +1,12 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(197, 218, 236);
     font-style: normal;
     font-size: 19px;
     margin-right: 130px;
 }
 .Image{
     margin-left: 145px;
+    image-rendering: optimizeQuality;
 }
 .Heading{
     margin-left: 600px;
